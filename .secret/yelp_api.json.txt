@@ -1,0 +1,4 @@
+{
+    "client-id" : "KV8HYLgIYPjGarKLCaV0zw",
+    "api-key" : "kahOXweMddaLOKnNUBSmESbVIiiUKcGs41tXZs0tD_woWEyB-CWoEnBd_YU_lZR_mGvxAKQ39oMnzdVLrmWEmoqe5h4dLKGedrBAd2198_Mtf1NYxsuTtbIQ1UfPZXYx"
+}
